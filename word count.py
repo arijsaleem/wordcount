@@ -1,4 +1,5 @@
 ##A program designed to count lines, words, and characters in a text file 
+##Created by Arij Saleem
 
 import Tkinter
 import tkFileDialog
